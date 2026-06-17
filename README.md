@@ -5,7 +5,7 @@
 **Printer**: Heavily modified **Creality K1 Max** ⚙️
 
 ### Technical Specifications
-- **Build Volume**: 300×300×250 mm
+- **Build Volume**: 300×300×275 mm
 - **XY Rails**: Full linear rails
 - **Parts**: Fiberon PPS-CF10
 - **Motherboard**: Manta M8P V2.0
