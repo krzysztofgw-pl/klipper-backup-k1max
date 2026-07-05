@@ -12,7 +12,7 @@
 - **Z System**: Triple Z
 - **Sensor**: Cartographer v4 USB
 - **Extruder**: DXC
-- **Hotend**: Microswiss FlowTech™ (**100W**) for K2
+- **Hotend**: Microswiss FlowTech™ (**100W**) for K2 (M3044)
 - **Hotend PCB Firmware**: v0.13.0-557 Klipper :rocket:
 
 This backup is provided by [Klipper-Backup](https://github.com/Staubgeborener/Klipper-Backup).
