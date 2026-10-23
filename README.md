@@ -10,7 +10,7 @@
 - **Parts**: Fiberon PPS-CF10
 - **Motherboard**: Manta M8P V2.0
 - **Z System**: Triple Z
-- **Sensor**: Cartographer v4 USB
+- **Sensor**: Cartographer v4 CAN
 - **Extruder**: DXC
 - **Hotend**: Microswiss FlowTech™ (**100W**) for K2 (M3044)
 - **Hotend PCB Firmware**: v0.13.0-557 Klipper :rocket:
